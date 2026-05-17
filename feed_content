@@ -1,0 +1,4 @@
+This is a new "news announcement" feed that can be managed from our GitHub repository.
+The "Learn More" button can be linked to any URL or disabled if no link is provided. It is currently linked to the FAQ.
+If the feed text is empty in the repository, this feed will not be shown.
+§https://www.splitscreen.me/docs/faq/
