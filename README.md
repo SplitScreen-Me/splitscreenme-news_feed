@@ -1,2 +1,2 @@
-# splitscreenme-news_feed
-A news feed to be displayed in Nucleus when the needed.
+# Nucleus news feed
+A news feed to be displayed in Nucleus when needed.
